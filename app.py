@@ -1,7 +1,7 @@
 """
 Created on Sun Jun  7 20:11:31 2020
 
-@author: Adarsh Pal
+@author: Megha Ghosh
 """
 
 import streamlit as st
